@@ -42,9 +42,3 @@ fn main() {
 }
 
 
-
-// fn main() {
-//     let  x = " xyz ";
-//     let spaces = x.len();
-//     println!("The length of x is {}", spaces);
-// }
